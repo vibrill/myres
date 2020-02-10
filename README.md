@@ -1,0 +1,2 @@
+# myres
+mencoba membuat repositori
